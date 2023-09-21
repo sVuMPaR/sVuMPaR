@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sVuMPaR
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,css
-- 💞️ I’m looking to collaborate on frontend developing, code revewing
+- 🌱 I’m currently learning html,css then i want to learn JS, create some pet-projects, learn more abour GitHub and it`s features
+- 💞️ I’m looking to collaborate on frontend developing, code revewing my projects
 - 📫 How to reach me (https://t.me/sVuMPaR)
 
 <!---
